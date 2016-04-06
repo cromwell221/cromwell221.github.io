@@ -519,9 +519,9 @@ function profileNewPageInit(){
 			text: 'Инвентарь Backpack.tf',
 		},
 		{
-			href: 'http://tf2b.com/tf2/'+steamid,
+			href: 'http://steam.tools/itemvalue/#/'+steamid,
 			icon: 'http://tf2b.com/favicon.ico',
-			text: 'Инвентарь TF2B.com',
+			text: 'Инвентарь Steam.tools',
 		},
 		{
 			href: 'http://tf2outpost.com/backpack/'+steamid,
