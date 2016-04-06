@@ -8,7 +8,7 @@
 
 var url = document.URL;
 
-var CDN = '//m4dEngi.github.io/SteamWebTools/';
+var CDN = '//cromwell221.github.io/SteamWebTools/';
 
 var scripts = [
 	{
