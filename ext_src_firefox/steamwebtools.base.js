@@ -8,7 +8,7 @@
 
 var url = document.URL;
 
-var CDN = '//cromwell221.github.io/';
+var CDN = '//github.com/cromwell221/cromwell221.github.io/blob/gh-pages/';
 
 var scripts = [
 	{
