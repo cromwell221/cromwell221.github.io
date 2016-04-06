@@ -15,5 +15,5 @@
 
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = '//m4dEngi.github.io/SteamWebTools/steamwebtools.base.js';
+script.src = '//cromwell221.github.io/SteamWebTools/steamwebtools.base.js';
 document.body.appendChild(script);
