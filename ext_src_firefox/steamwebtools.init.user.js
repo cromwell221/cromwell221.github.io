@@ -15,5 +15,5 @@
 
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = '//cromwell221.github.io/steamwebtools.base.js';
+script.src = '//github.com/cromwell221/cromwell221.github.io/blob/gh-pages/steamwebtools.base.js';
 document.body.appendChild(script);
